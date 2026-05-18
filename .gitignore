@@ -1,0 +1,5 @@
+augmented_dataset/
+balanced_dataset/
+raw_dataset/
+.venv/
+__pycache__/
